@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.card{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.header{
+    color: #fff;
+    margin-top: 20px;
+}
+.card-text{
+    color: white;
+    font-size: x-large;
+}
+
+#button{
+    padding: 20px;
+    font-size:x-large;
+}
+
+.container{
+    background-color: grey;
+}
